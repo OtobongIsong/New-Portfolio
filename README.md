@@ -1,1 +1,2 @@
-# New-Portfolio
+# MyPortfolioWebsite
+A lightweight, customizable personal portfolio website
